@@ -1,2 +1,5 @@
-# sistema-specialista-devo-comprar
-Sistema especialista com Python e PyKnow para decidir se compra ou não algum item
+# Sistema Especialista: Devo Comprar?
+
+Sistema simples para estudo de Sistemas Baseados em Conhecimento.
+
+Utiliza a linguagem Python juntamente com o módulo PyKnow, para decidir se você deve ou não comprar algum item.
